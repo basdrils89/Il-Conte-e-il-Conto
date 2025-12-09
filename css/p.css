@@ -110,4 +110,6 @@ footer {
   text-decoration: underline;
 }
 
-a{}
+a{
+  color: lightgreen;
+}
